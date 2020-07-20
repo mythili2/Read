@@ -1,0 +1,34 @@
+ 1Q. What is your understanding of Blockchain?
+Ans- It is mixture of Disturbuted Database and cryptography.
+          A blockchain is a digital record of transactions. The name comes from its structure, in 
+          which individual records, called blocks, are linked together in single list, called a chain.
+          Blockchains are used for recording transactions made with cryptocurrencies, such as Bitcoin, and have many other applications.
+          Each transaction added to a blockchain is validated by multiple computers on the Internet. 
+          These systems, which are configured to monitor specific types of blockchain transactions, form a peer-to-peer network.  
+2Q.    What is the core problem Blockchain trying to solve?
+Ans- ->  security
+         ->authenticity
+        ->Database security
+        - >Transaction records.
+ 
+Q 3. What are the few features which Blockchain will give you?
+ Ans- ->Verifiable
+          ->Unchangeable
+          -> Tamper proof
+          ->Immutable   
+Q.4 What all things a block contains?
+Ans- ->Block number
+          ->Transaction records
+          -> Previous block signature
+          ->Mining key (Nonce)  
+Q.5 How the verifiability of the blockchain has been attained?
+Ans-Blockchain is divided into several multiple computer.
+         Where blockchain or fingerprint of data is calculated
+          by the SHA256(Secure Hash algorithm).There is group
+          where involved each and every person.The database is
+         provided by hash. If the hash of all the participants
+          is the same, then the data is similar to one another. But if 
+          the hash of one of the participants is different, then
+         we can cross-check what was the difference of the data
+        which was leading to a different data.
+                  
